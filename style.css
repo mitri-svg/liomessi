@@ -10,3 +10,10 @@ dd{
     color: brown;
     background-color: white;
 }
+textarea{
+    background-color: green;
+}
+label{
+    color: blue;
+    background-color: brown;
+}
